@@ -1,0 +1,1 @@
+Note: Code was not written to be able to run physical Stroop task. So the num and phys fields were swapped to be able to run it, and when results printed out they had to be read as the opposite to what was written. e.g. The num field in the code and in the results refers to the phys field, and vice versa.
